@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://sistemtoko.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/button_No, Thx'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Harga'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Pricing                                _4910a0'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/h2_Pricing'))
+
+WebUI.closeBrowser()
+

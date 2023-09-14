@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Info</name>
+   <name>a_Harga</name>
    <tag></tag>
-   <elementGuidId>ce935ac5-d1c7-4038-9de8-992679896db7</elementGuidId>
+   <elementGuidId>3db05b0e-1cb1-4cf2-b0c4-adb0008cbb32</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/a</value>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ddf43307-eabe-4a55-b578-4d85967664c3</webElementGuid>
+      <webElementGuid>02d0dae1-b083-4bc3-89ee-caecf9ec70fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>href</name>
       <type>Main</type>
-      <value>dropdown-toggle</value>
-      <webElementGuid>8067b31b-8b65-4c05-aa7c-b3eb046a7b2d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
-      <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>3e35cf2a-2c72-47d0-a53f-727edbf01073</webElementGuid>
+      <value>https://sistemtoko.com#pricing</value>
+      <webElementGuid>b1de8893-acb1-4f57-9318-0f688c8d55e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Info </value>
-      <webElementGuid>078edd4e-1e66-4c5b-847e-b607d31a86f5</webElementGuid>
+      <value>Harga</value>
+      <webElementGuid>122be7db-b60f-499c-9b9b-8ee871c3bf17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
-      <webElementGuid>400073aa-2023-49d1-afc2-5180badd25f1</webElementGuid>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[4]/a[1]</value>
+      <webElementGuid>6abd09d3-e3cb-4293-ae9d-b8bfd91b8ac2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/a</value>
-      <webElementGuid>cd235d23-ea3a-4598-bd82-e03536875834</webElementGuid>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[4]/a</value>
+      <webElementGuid>b7136031-a72f-4814-aa86-e0ce498fa083</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Info')])[2]</value>
-      <webElementGuid>1288514c-0e63-4ac4-bfc8-89e6441c3527</webElementGuid>
+      <value>//a[contains(text(),'Harga')]</value>
+      <webElementGuid>c4c35509-d57d-4519-b343-44d5a90b178e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur'])[1]/following::a[6]</value>
-      <webElementGuid>12991d77-6207-421a-af69-04d19d644619</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur Detail'])[1]/following::a[1]</value>
+      <webElementGuid>95dcc41a-521f-43fc-b011-41165397f81a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[7]</value>
-      <webElementGuid>b39ebd4a-f647-417d-bd0e-7d11e8e36ab6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Chatbot ?'])[1]/following::a[2]</value>
+      <webElementGuid>21d25b9d-d658-464f-88a8-30b51c27a296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/preceding::a[1]</value>
-      <webElementGuid>b5f82f09-923a-466c-9551-08993912c076</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[2]</value>
+      <webElementGuid>d6ca487e-4cc4-4a63-b0f6-d1da5ac17f04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa Harus sistemtoko.com'])[1]/preceding::a[2]</value>
-      <webElementGuid>87681f25-7c39-41e6-99ca-c2030d8eb3f7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Harga']/parent::*</value>
+      <webElementGuid>dacc7515-708b-4116-b9ae-0be63c72f9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sistemtoko.com#pricing')]</value>
+      <webElementGuid>f956d4e3-4ca9-4317-835b-4e4939f7d55e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/ul/li[3]/a</value>
-      <webElementGuid>0a96bcfa-8186-4a1b-890c-5c0dd68eb7e9</webElementGuid>
+      <value>//div[2]/ul/li[4]/a</value>
+      <webElementGuid>49e978e5-5746-417d-9d7b-4a48a67694bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Info ' or . = 'Info ')]</value>
-      <webElementGuid>2f0618cb-6c84-4c3f-bbd1-3fb7b2710d0b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Info']/parent::*</value>
-      <webElementGuid>547878aa-cc08-48a0-b940-9db15fbf8d7f</webElementGuid>
+      <value>//a[@href = 'https://sistemtoko.com#pricing' and (text() = 'Harga' or . = 'Harga')]</value>
+      <webElementGuid>add0059f-5f7d-4aad-be1f-ee857006f9ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

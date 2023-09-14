@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://sistemtoko.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/button_No, Thx'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/img_Daftar GRATIS Sekarang_device hidden-xs_42bc7f'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Info'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Kelebihan sistemtoko.com'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Info'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Mengapa Harus sistemtoko.com'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Info'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Apa itu Chatbot'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/h5_Apakah itu Chatbot dan apakah manfaat me_63c31a'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Info'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Fitur Detail'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Berikut beberapa fitur yang tersedia di_66c094'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/h5_Berikut beberapa fitur yang tersedia di _0bd036'))
+
+WebUI.closeBrowser()
+

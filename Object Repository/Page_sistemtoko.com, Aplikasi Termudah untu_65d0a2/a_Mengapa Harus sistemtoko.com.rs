@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Info</name>
+   <name>a_Mengapa Harus sistemtoko.com</name>
    <tag></tag>
-   <elementGuidId>ce935ac5-d1c7-4038-9de8-992679896db7</elementGuidId>
+   <elementGuidId>c67def8b-ec81-43c5-a031-dbd217353478</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/a</value>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/ul/li[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ddf43307-eabe-4a55-b578-4d85967664c3</webElementGuid>
+      <webElementGuid>d5516c82-8329-4dba-851d-36a9cc083a9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-toggle</value>
-      <webElementGuid>8067b31b-8b65-4c05-aa7c-b3eb046a7b2d</webElementGuid>
+      <value>faq</value>
+      <webElementGuid>21f85c90-36e4-4196-b956-4e22fca8e0a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>href</name>
       <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>3e35cf2a-2c72-47d0-a53f-727edbf01073</webElementGuid>
+      <value>#mengapa</value>
+      <webElementGuid>ddd2967e-fce8-44c7-b238-9e5d0bcac07a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Info </value>
-      <webElementGuid>078edd4e-1e66-4c5b-847e-b607d31a86f5</webElementGuid>
+      <value> Mengapa Harus sistemtoko.com </value>
+      <webElementGuid>62f2e3a5-76b1-4557-aedf-215bcbe2d79f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
-      <webElementGuid>400073aa-2023-49d1-afc2-5180badd25f1</webElementGuid>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[2]/a[@class=&quot;faq&quot;]</value>
+      <webElementGuid>77ef3948-bf26-4fcb-952b-8015c1dad1fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/a</value>
-      <webElementGuid>cd235d23-ea3a-4598-bd82-e03536875834</webElementGuid>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/ul/li[2]/a</value>
+      <webElementGuid>0db6700e-ed60-4761-af18-14b3176b0654</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Info')])[2]</value>
-      <webElementGuid>1288514c-0e63-4ac4-bfc8-89e6441c3527</webElementGuid>
+      <value>//a[contains(text(),'Mengapa Harus sistemtoko.com')]</value>
+      <webElementGuid>3a265c61-896f-4dfc-a871-a244dd71cd92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur'])[1]/following::a[6]</value>
-      <webElementGuid>12991d77-6207-421a-af69-04d19d644619</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/following::a[1]</value>
+      <webElementGuid>6c8e0169-c82a-4aad-81c7-b3b5a1f00afc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[7]</value>
-      <webElementGuid>b39ebd4a-f647-417d-bd0e-7d11e8e36ab6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/following::a[2]</value>
+      <webElementGuid>93b8e4d3-c2c8-4d2a-bc65-69a7fbcc7197</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/preceding::a[1]</value>
-      <webElementGuid>b5f82f09-923a-466c-9551-08993912c076</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Chatbot ?'])[1]/preceding::a[1]</value>
+      <webElementGuid>3419c7b7-ee91-4c18-b587-598321915967</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa Harus sistemtoko.com'])[1]/preceding::a[2]</value>
-      <webElementGuid>87681f25-7c39-41e6-99ca-c2030d8eb3f7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur Detail'])[1]/preceding::a[2]</value>
+      <webElementGuid>55d52180-2dd1-41a6-9860-a3a5bc014a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#mengapa')]</value>
+      <webElementGuid>e5ea5ebf-9f45-41a1-b139-19144595031a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/ul/li[3]/a</value>
-      <webElementGuid>0a96bcfa-8186-4a1b-890c-5c0dd68eb7e9</webElementGuid>
+      <value>//li[3]/ul/li[2]/a</value>
+      <webElementGuid>e40284e6-8dac-4e39-8d39-8e5a781d043e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Info ' or . = 'Info ')]</value>
-      <webElementGuid>2f0618cb-6c84-4c3f-bbd1-3fb7b2710d0b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Info']/parent::*</value>
-      <webElementGuid>547878aa-cc08-48a0-b940-9db15fbf8d7f</webElementGuid>
+      <value>//a[@href = '#mengapa' and (text() = ' Mengapa Harus sistemtoko.com ' or . = ' Mengapa Harus sistemtoko.com ')]</value>
+      <webElementGuid>5f643558-ec5a-4c0f-9ca5-59392b1a7035</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

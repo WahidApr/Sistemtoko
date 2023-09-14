@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Daftar GRATIS Sekarang_device hidden-xs_42bc7f</name>
+   <tag></tag>
+   <elementGuidId>59a3247b-00cf-4bfd-bda7-ca484edb48e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.device.hidden-xs.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>aece5b36-abe3-4711-8c4e-64c5bd2638a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com/img/device-bignew.png</value>
+      <webElementGuid>f0c6269a-02d7-4df6-b26e-6684722f6d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>device hidden-xs img-responsive</value>
+      <webElementGuid>bed50eeb-e292-44b4-bf57-a37b0814712c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;jumbotron_2&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 text-center&quot;]/img[@class=&quot;device hidden-xs img-responsive&quot;]</value>
+      <webElementGuid>210a3bc8-f498-496c-88be-2e02b417b5d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div/div[2]/img</value>
+      <webElementGuid>329e049c-0e61-47db-870b-2a67e85993ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar GRATIS Sekarang!'])[1]/following::img[1]</value>
+      <webElementGuid>00ec16b0-13e3-4839-aaf2-b0c52e8ab2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp.40.000.000.000'])[1]/following::img[1]</value>
+      <webElementGuid>0f77c1a7-2820-406b-b709-dc18395960f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toko online &amp; offline'])[1]/preceding::img[1]</value>
+      <webElementGuid>3efdd409-9026-4caf-8a9a-4870c222e51d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[1]/preceding::img[2]</value>
+      <webElementGuid>a87c0697-e2b1-4c70-bfd0-1790f2c0f205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://sistemtoko.com/img/device-bignew.png')]</value>
+      <webElementGuid>ebdd6a4d-7a64-410e-be84-bc58f3028c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>a66fe85f-1844-4ebe-a6d0-9e1bed6da589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sistemtoko.com/img/device-bignew.png']</value>
+      <webElementGuid>2a65d35b-f017-4a78-aa53-d9f77fd3a5e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

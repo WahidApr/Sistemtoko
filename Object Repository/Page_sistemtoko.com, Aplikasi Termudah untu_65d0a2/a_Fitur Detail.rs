@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_No, Thx</name>
+   <name>a_Fitur Detail</name>
    <tag></tag>
-   <elementGuidId>47f2f45b-67af-45ae-bb7f-f7b66d809902</elementGuidId>
+   <elementGuidId>36800ce9-0170-447e-ab51-cd67160307dc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#onesignal-slidedown-cancel-button</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='onesignal-slidedown-cancel-button']</value>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>ab75a6b8-6df0-4450-9b57-d1af9ebb762a</webElementGuid>
+      <value>a</value>
+      <webElementGuid>146d617a-abb8-43db-9e19-1fd669a502f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>align-right secondary slidedown-button</value>
-      <webElementGuid>8a2c5afc-cfe9-4b9c-83db-e994f45a241f</webElementGuid>
+      <value>faq</value>
+      <webElementGuid>cec2ac73-f48c-4b88-991d-027aa3759a38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>onesignal-slidedown-cancel-button</value>
-      <webElementGuid>c5cdfd3b-3147-4b57-b363-ddd4ea70232b</webElementGuid>
+      <value>#fitur</value>
+      <webElementGuid>e885e8cd-4c17-4b6d-880b-9d4ecebe3c96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>No, Thx</value>
-      <webElementGuid>cfd09390-30b9-4f2b-8fad-274f2a0dedae</webElementGuid>
+      <value>Fitur Detail</value>
+      <webElementGuid>1ee85aee-a6bb-40bb-aaa5-58f1f4b54dcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;onesignal-slidedown-cancel-button&quot;)</value>
-      <webElementGuid>f997bb42-eee4-479f-a6ff-3270e912467b</webElementGuid>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[4]/a[@class=&quot;faq&quot;]</value>
+      <webElementGuid>872e4147-4d15-4e2d-a0c3-dfeca9098f16</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='onesignal-slidedown-cancel-button']</value>
-      <webElementGuid>369701db-6e69-4bf1-9263-8cc97bc6577b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='slidedown-footer']/button[2]</value>
-      <webElementGuid>b1c92bf1-bbe9-4d87-bb0f-86cd598af809</webElementGuid>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/ul/li[4]/a</value>
+      <webElementGuid>589e1291-5d83-4ac4-a41c-bc2cd36b98d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fitur Detail')]</value>
+      <webElementGuid>70d01b82-8c11-4bfe-a16d-0bf659fa7fd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, saya mau'])[1]/following::button[1]</value>
-      <webElementGuid>4c77ecbf-c3f5-4714-a734-b447db9047aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Chatbot ?'])[1]/following::a[1]</value>
+      <webElementGuid>7f641bd3-bf87-41bf-9a34-c285da7061e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akan ada banyak Promo nih, Apakah anda ingin mendapatkan informasi PROMO dari Sistemtoko.c'])[1]/following::button[2]</value>
-      <webElementGuid>1ebd9a65-6f7a-4c03-acde-cb6a0eedd0cf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa Harus sistemtoko.com'])[1]/following::a[2]</value>
+      <webElementGuid>78952f4d-3c8c-4c7b-b096-becd2eae1ef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onesignal-slidedown-cancel-button', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>41771fcd-542f-40a8-bb9d-eed1c32d7293</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab0c33f3-ea7b-4831-982d-1cbc7731f43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#fitur')]</value>
+      <webElementGuid>1f6b5182-f5bb-4e52-9194-5392c23e32c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>cd8a549b-9df5-44b3-80a9-939b0d9d1982</webElementGuid>
+      <value>//li[3]/ul/li[4]/a</value>
+      <webElementGuid>664ae3de-76f2-4b74-92ef-e0f668d7cc73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'onesignal-slidedown-cancel-button' and (text() = 'No, Thx' or . = 'No, Thx')]</value>
-      <webElementGuid>d8805b41-5f9e-459b-a491-e0f8c74432de</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='No, Thx']/parent::*</value>
-      <webElementGuid>7317cf7a-4302-4f78-aa6e-cac687f2dddd</webElementGuid>
+      <value>//a[@href = '#fitur' and (text() = 'Fitur Detail' or . = 'Fitur Detail')]</value>
+      <webElementGuid>dedb437d-17d0-4263-b1eb-ae8af1ad7d35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

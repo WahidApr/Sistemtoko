@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://sistemtoko.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/button_No, Thx'))
+
+WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/button_chat                                _76f1ae'))
+
+WebUI.switchToWindowTitle('Bagikan di WhatsApp')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Bagikan di WhatsApp/h2_Chat di WhatsApp dengan 62 896-9510-1205'))
+
+WebUI.closeBrowser()
+

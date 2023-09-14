@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Info</name>
+   <name>a_Apa itu Chatbot</name>
    <tag></tag>
-   <elementGuidId>ce935ac5-d1c7-4038-9de8-992679896db7</elementGuidId>
+   <elementGuidId>20c32e79-4e84-4fbf-9f5f-1ef0f8fb4476</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/a</value>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/ul/li[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ddf43307-eabe-4a55-b578-4d85967664c3</webElementGuid>
+      <webElementGuid>e86d12aa-feca-4852-9e6e-bd41383548cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-toggle</value>
-      <webElementGuid>8067b31b-8b65-4c05-aa7c-b3eb046a7b2d</webElementGuid>
+      <value>faq</value>
+      <webElementGuid>91b5cbe5-56b1-4546-987b-b7eb224f29b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>href</name>
       <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>3e35cf2a-2c72-47d0-a53f-727edbf01073</webElementGuid>
+      <value>#faqhabot</value>
+      <webElementGuid>1eb8597b-3e2d-485f-8896-ff3f273d6404</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Info </value>
-      <webElementGuid>078edd4e-1e66-4c5b-847e-b607d31a86f5</webElementGuid>
+      <value>Apa itu Chatbot ?</value>
+      <webElementGuid>3fdd32d9-9241-4253-9f5e-165fe5a09bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
-      <webElementGuid>400073aa-2023-49d1-afc2-5180badd25f1</webElementGuid>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[3]/a[@class=&quot;faq&quot;]</value>
+      <webElementGuid>1aced484-ac40-40cc-92cf-cd3776a009cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/a</value>
-      <webElementGuid>cd235d23-ea3a-4598-bd82-e03536875834</webElementGuid>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[3]/ul/li[3]/a</value>
+      <webElementGuid>adaea9da-c75b-452d-a2f0-409083e13b2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Info')])[2]</value>
-      <webElementGuid>1288514c-0e63-4ac4-bfc8-89e6441c3527</webElementGuid>
+      <value>//a[contains(text(),'Apa itu Chatbot ?')]</value>
+      <webElementGuid>3ece2104-0f8e-44ad-aacf-bbc87bf62fa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur'])[1]/following::a[6]</value>
-      <webElementGuid>12991d77-6207-421a-af69-04d19d644619</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa Harus sistemtoko.com'])[1]/following::a[1]</value>
+      <webElementGuid>3f275c41-e3f3-4ba5-9d91-12299b4e7f51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[7]</value>
-      <webElementGuid>b39ebd4a-f647-417d-bd0e-7d11e8e36ab6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/following::a[2]</value>
+      <webElementGuid>72cb1751-69b9-4b98-aefc-a61d0c713ed1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/preceding::a[1]</value>
-      <webElementGuid>b5f82f09-923a-466c-9551-08993912c076</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur Detail'])[1]/preceding::a[1]</value>
+      <webElementGuid>2bd45cae-efa1-43fb-b504-66866e86505b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa Harus sistemtoko.com'])[1]/preceding::a[2]</value>
-      <webElementGuid>87681f25-7c39-41e6-99ca-c2030d8eb3f7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga'])[1]/preceding::a[2]</value>
+      <webElementGuid>6687cf22-d41f-4e0d-ac26-a30d17e5381f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#faqhabot')]</value>
+      <webElementGuid>fc248a1c-af44-4685-adb2-2f79ac70228e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/ul/li[3]/a</value>
-      <webElementGuid>0a96bcfa-8186-4a1b-890c-5c0dd68eb7e9</webElementGuid>
+      <value>//li[3]/ul/li[3]/a</value>
+      <webElementGuid>d806db18-15f3-44e2-a903-46043470394f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Info ' or . = 'Info ')]</value>
-      <webElementGuid>2f0618cb-6c84-4c3f-bbd1-3fb7b2710d0b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Info']/parent::*</value>
-      <webElementGuid>547878aa-cc08-48a0-b940-9db15fbf8d7f</webElementGuid>
+      <value>//a[@href = '#faqhabot' and (text() = 'Apa itu Chatbot ?' or . = 'Apa itu Chatbot ?')]</value>
+      <webElementGuid>7ff4ec5d-9e2b-4f0d-a190-a314c0caace7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
