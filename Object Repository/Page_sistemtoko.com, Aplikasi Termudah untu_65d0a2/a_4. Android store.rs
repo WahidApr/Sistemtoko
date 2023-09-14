@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_4. Android store</name>
+   <tag></tag>
+   <elementGuidId>cea470ec-c2ce-4e10-b26e-a6caaf015630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e1935e5-51be-4f59-bdbe-f9eb26ad4bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com#android</value>
+      <webElementGuid>deb8a98b-64a5-4aed-a26b-ccea031f397b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4. Android store</value>
+      <webElementGuid>312ac758-2d3b-4a4d-9361-6edc1aa883b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[4]/a[1]</value>
+      <webElementGuid>c22cf859-f02f-48e7-82ee-a22a9f06d9d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[4]/a</value>
+      <webElementGuid>6dbe3b76-df22-4268-a360-d36acc241239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'4. Android store')]</value>
+      <webElementGuid>bd832465-3006-4187-bb27-3edc3f427a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur'])[1]/following::a[4]</value>
+      <webElementGuid>487c1a17-8188-4936-a66c-da3b167f54e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[5]</value>
+      <webElementGuid>56956a6e-f462-4c75-a2dc-35c0ba045d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/preceding::a[2]</value>
+      <webElementGuid>0ec425a1-acad-4d4f-bca8-cdee1fcf357b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/preceding::a[3]</value>
+      <webElementGuid>d69cb1e2-f7ff-4e49-9367-064a61c1e8ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4. Android store']/parent::*</value>
+      <webElementGuid>25335f19-3c50-4f70-99e0-a045aa6af9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sistemtoko.com#android')]</value>
+      <webElementGuid>da3d5897-3acf-4dcd-9068-f5d9f83c7034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>9f0c5ee6-7eb1-444d-8767-ecab44fafb82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sistemtoko.com#android' and (text() = '4. Android store' or . = '4. Android store')]</value>
+      <webElementGuid>9533c379-4d1f-4685-af7a-3b4c32ed9af4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

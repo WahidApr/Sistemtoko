@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Demo  Klik</name>
+   <tag></tag>
+   <elementGuidId>ce405cc6-a4af-4a29-9d25-e850afc9578d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='website']/div[2]/div/div[8]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fiture-header > a.btn.btn-lg.signup</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>13809d55-33d9-4615-8c91-4e51516289af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg signup</value>
+      <webElementGuid>bd2722f0-b568-4f1b-b574-3110718935d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://demo.sistemtoko.com</value>
+      <webElementGuid>2a91b6ca-83f4-4493-afde-cd9ce1efa52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>512277f7-ebe5-49fc-a687-a56a9e0a93c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demo ? Klik</value>
+      <webElementGuid>c33b883b-5627-4562-a860-7621c7acab6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;website&quot;)/div[@class=&quot;col-xs-12 col-sm-6 col-lg-4&quot;]/div[@class=&quot;box_banking&quot;]/div[@class=&quot;col-md-12 fiture-box&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;fiture-header&quot;]/a[@class=&quot;btn btn-lg signup&quot;]</value>
+      <webElementGuid>3c0f910f-d1e5-4038-9849-43c6b23698b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='website']/div[2]/div/div[8]/div/div/a</value>
+      <webElementGuid>74cea645-8a55-47a7-9240-58330e1803ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Demo ? Klik')]</value>
+      <webElementGuid>57568acf-2098-42d7-8f13-700f3331b84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miliki website .com anda sendiri'])[1]/following::a[1]</value>
+      <webElementGuid>6f99dddc-7d01-4862-a970-a72b3eefc4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Toko Online'])[1]/following::a[1]</value>
+      <webElementGuid>c7a2d89f-53dc-439e-bb14-9b4dadc0887e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berikut beberapa contoh website dengan tampilan custom'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ae50627-c82a-4cfc-b2af-667fc03fdcee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hos-id.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>d3261cf9-fbf5-429e-84e8-765af12fb0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo ? Klik']/parent::*</value>
+      <webElementGuid>2d49497d-93ab-428c-9f1e-31c0be4f4ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://demo.sistemtoko.com']</value>
+      <webElementGuid>18f46c6b-79ae-4799-9560-5ff3900268c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/a</value>
+      <webElementGuid>92b7f042-5a19-4232-b4a5-55a531f97fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://demo.sistemtoko.com' and (text() = 'Demo ? Klik' or . = 'Demo ? Klik')]</value>
+      <webElementGuid>fb38073a-96b3-4d43-bf84-b3e4c74beaf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

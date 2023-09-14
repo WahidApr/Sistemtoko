@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_3. ChatBot</name>
+   <tag></tag>
+   <elementGuidId>d978516e-44de-414e-88d8-d6cca09f1879</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ec1c6dcc-299a-4c34-9a7b-16de68403740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com#chatbot</value>
+      <webElementGuid>bf01cc32-a0aa-4ea4-ad8c-6c10b6e9fa0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3. ChatBot</value>
+      <webElementGuid>732d4982-a100-44e4-a5eb-640b17c067db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>2d8b2d69-ee7a-44fb-a27e-4921c0ae715f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>0ea3fbd9-36a8-4c82-8f9f-f16deb6fb0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'3. ChatBot')]</value>
+      <webElementGuid>644a7afc-f5be-4005-8c65-8396d684f75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur'])[1]/following::a[3]</value>
+      <webElementGuid>ba934dcf-5c0b-4a6e-a805-70c647cce3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[4]</value>
+      <webElementGuid>4fef416e-1e40-497f-933c-2ebb771f6de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/preceding::a[3]</value>
+      <webElementGuid>15af0ec3-3af2-4820-aac5-95c82b84e3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/preceding::a[4]</value>
+      <webElementGuid>e04deec3-815a-48ac-a05b-780850a579da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3. ChatBot']/parent::*</value>
+      <webElementGuid>8101cf92-b117-4d11-af99-3938426780cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sistemtoko.com#chatbot')]</value>
+      <webElementGuid>210d8851-0620-4e77-8e97-010888e099e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>92d1d100-c61d-4ee5-8d45-87c63e661dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sistemtoko.com#chatbot' and (text() = '3. ChatBot' or . = '3. ChatBot')]</value>
+      <webElementGuid>38d8163a-b2d4-4cba-8c7f-8d8d30bff698</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

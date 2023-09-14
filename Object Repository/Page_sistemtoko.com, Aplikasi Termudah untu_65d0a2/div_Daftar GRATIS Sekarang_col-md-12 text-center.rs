@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar GRATIS Sekarang_col-md-12 text-center</name>
+   <tag></tag>
+   <elementGuidId>bca31b11-74d2-4292-88e0-8c743d2369db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f829a147-b567-43a5-a66f-3d09a5dc153b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 text-center</value>
+      <webElementGuid>c953e40e-801c-43ae-970c-49313303be21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;jumbotron_2&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 text-center&quot;]</value>
+      <webElementGuid>9ab2338c-3134-468e-871a-d74dff76ed6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div/div[2]</value>
+      <webElementGuid>801778b2-6daf-44c2-ac34-78a4720cb67f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar GRATIS Sekarang!'])[1]/following::div[1]</value>
+      <webElementGuid>2b20ecd7-e25a-430b-91a8-a9cefdebe27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp.40.000.000.000'])[1]/following::div[2]</value>
+      <webElementGuid>75d3dae8-750f-4722-9e09-560ba3d56c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toko online &amp; offline'])[1]/preceding::div[2]</value>
+      <webElementGuid>88c40e69-48a9-4fd5-9584-0fb55331afbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[1]/preceding::div[4]</value>
+      <webElementGuid>ff20ab5e-9f10-43be-b1af-968e9125ecb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>b585e459-6e56-40ae-9855-bab028c367ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

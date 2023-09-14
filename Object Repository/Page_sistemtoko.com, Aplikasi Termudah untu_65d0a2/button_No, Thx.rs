@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No, Thx</name>
+   <tag></tag>
+   <elementGuidId>47f2f45b-67af-45ae-bb7f-f7b66d809902</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='onesignal-slidedown-cancel-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onesignal-slidedown-cancel-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e3076e6-a6ff-47a7-b337-a9610a7dcde7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>align-right secondary slidedown-button</value>
+      <webElementGuid>9c957c1c-41dc-40f6-9b7b-aeeca6c83147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onesignal-slidedown-cancel-button</value>
+      <webElementGuid>748ddbf4-bf45-4836-8214-e1fb1ed6bc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No, Thx</value>
+      <webElementGuid>625b26ca-75c6-494d-abc9-db5674469419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onesignal-slidedown-cancel-button&quot;)</value>
+      <webElementGuid>5f5a4f36-4727-448d-8eba-a3a63de48977</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='onesignal-slidedown-cancel-button']</value>
+      <webElementGuid>2ef56653-7f8a-490b-9380-8f57b83601e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slidedown-footer']/button[2]</value>
+      <webElementGuid>aa48c256-8d1b-4cab-8c84-ea6468f357f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, saya mau'])[1]/following::button[1]</value>
+      <webElementGuid>894b554b-b3cf-4009-b621-ee1c8269e97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akan ada banyak Promo nih, Apakah anda ingin mendapatkan informasi PROMO dari Sistemtoko.c'])[1]/following::button[2]</value>
+      <webElementGuid>9881199f-d0a1-492d-a11e-b940f7d33189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>2cab2dbc-ba2f-4974-9235-112ca74e8a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'onesignal-slidedown-cancel-button' and (text() = 'No, Thx' or . = 'No, Thx')]</value>
+      <webElementGuid>81f7579d-1257-4107-9810-b07def844dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No, Thx']/parent::*</value>
+      <webElementGuid>1962c4c0-2a8f-4f8d-a204-63f78e86977b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

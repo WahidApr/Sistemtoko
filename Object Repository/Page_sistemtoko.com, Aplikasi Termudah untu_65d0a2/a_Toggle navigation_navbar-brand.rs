@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Toggle navigation_navbar-brand</name>
+   <tag></tag>
+   <elementGuidId>ec0ff169-c7af-4ac9-bf72-86f1972fad2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='menu-utama']/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.navbar-brand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>654e25d3-6bf1-49b4-b2db-5a4d6bde1140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-brand</value>
+      <webElementGuid>b7d0c6fe-6e27-4f84-b43a-dafb9498da68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com</value>
+      <webElementGuid>8ed2d4c4-e9de-4100-ba74-2ee3a3b002fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-utama&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;navbar-header&quot;]/a[@class=&quot;navbar-brand&quot;]</value>
+      <webElementGuid>28af4634-4353-4413-b584-9e94da8038be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='menu-utama']/div/div/a[2]</value>
+      <webElementGuid>d2f55379-3121-47da-9e0d-bd59034164ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/following::a[2]</value>
+      <webElementGuid>b43ca352-586c-4388-b5f8-929a99c72611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[1]</value>
+      <webElementGuid>e91d90e2-1743-4611-9b31-c3f5cdbea202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur'])[1]/preceding::a[2]</value>
+      <webElementGuid>53b4d946-82ad-4852-91f8-2c20437ef92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sistemtoko.com')]</value>
+      <webElementGuid>4e80fe53-0add-4e2d-be76-368d3851ae05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>45e07fd0-6251-4d91-bbcd-3ce469f3e0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sistemtoko.com']</value>
+      <webElementGuid>3e3b6870-9e9c-4a81-b389-d23cc2a4a398</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

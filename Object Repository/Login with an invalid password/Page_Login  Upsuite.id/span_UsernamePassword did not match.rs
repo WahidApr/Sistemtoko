@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_UsernamePassword did not match</name>
+   <tag></tag>
+   <elementGuidId>5253151f-4114-4fe9-9de1-26150df0cf62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='reason']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#reason</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>188350f4-070d-474f-84e4-bde36ba8b5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reason</value>
+      <webElementGuid>66f22dfc-d116-40a4-a7d0-9f93f9d45b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username/Password did not match</value>
+      <webElementGuid>a9f902a8-b4c4-49e8-9ec0-74441b863ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reason&quot;)</value>
+      <webElementGuid>122e426a-ba84-4eb5-8bcb-4045ae20f145</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='reason']</value>
+      <webElementGuid>d0ebe9b4-dafd-4b35-8957-921356ff1bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-alert']/span</value>
+      <webElementGuid>9c92054a-ccee-4a9c-83a6-8871e782301d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation Failed'])[1]/following::span[1]</value>
+      <webElementGuid>8fecc72e-a949-4bd2-b8c4-16869fd53568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[1]</value>
+      <webElementGuid>5dd0c69d-50b7-43d7-8d1f-0e74dcbd0bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::span[1]</value>
+      <webElementGuid>13e37156-0b26-480a-9787-928dfcf0191e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username/Password did not match']/parent::*</value>
+      <webElementGuid>5ee96391-0fb2-418e-b2b7-76bb521c5c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>1d0e621a-134a-4921-8a0d-4b3bcd4665a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'reason' and (text() = 'Username/Password did not match' or . = 'Username/Password did not match')]</value>
+      <webElementGuid>4efc3d8a-6d92-4d77-8424-f67525c2cdf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

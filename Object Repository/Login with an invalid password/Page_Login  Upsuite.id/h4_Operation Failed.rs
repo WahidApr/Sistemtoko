@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Operation Failed</name>
+   <tag></tag>
+   <elementGuidId>79c122a9-70dd-4cfe-a2a6-c79cf69ed1b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-alert']/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>e87bc0dd-83b4-4aa3-98e5-cf518004f241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Operation Failed</value>
+      <webElementGuid>d895dc1f-0451-4abc-b544-0510be899242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-alert&quot;)/h4[1]</value>
+      <webElementGuid>0ed7703d-24c7-4d46-a480-ed2f476da1b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-alert']/h4</value>
+      <webElementGuid>bf083151-f872-43f1-acc9-7a3be795e57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username/Password did not match'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4a6b5f78-0127-410e-aaac-dca847aae2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>cbbd11b7-d3af-4abe-8d58-f08c38343670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = ' Operation Failed' or . = ' Operation Failed')]</value>
+      <webElementGuid>9565a900-3d2c-4369-b12b-2e09b2d62dc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

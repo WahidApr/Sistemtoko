@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_5. Aplikasi Kasir</name>
+   <tag></tag>
+   <elementGuidId>2ac30065-d5a8-4ca2-bc40-1ce885b962ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e983098b-e01a-487f-b352-b7c29bbda440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com#kasir</value>
+      <webElementGuid>2f4d6104-252c-4d9a-ad2a-9d6a8cb48e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5. Aplikasi Kasir</value>
+      <webElementGuid>34716235-c110-4659-8363-c5181ca1a1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[5]/a[1]</value>
+      <webElementGuid>ea4f8c9a-5283-4fd7-b08d-02e2a7ea7538</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[2]/ul/li[5]/a</value>
+      <webElementGuid>a693f14e-a3ab-432e-9afb-bf57d0f07f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'5. Aplikasi Kasir')]</value>
+      <webElementGuid>2fe31296-a40f-4a08-b8f8-8507238ad589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur'])[1]/following::a[5]</value>
+      <webElementGuid>4f077030-9b01-49d8-b2db-e3214174693b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[6]</value>
+      <webElementGuid>0b136aed-990f-4adf-a5b4-7b32f5c82664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/preceding::a[1]</value>
+      <webElementGuid>0f804600-6c6e-4a89-8a4d-7101d9097ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelebihan sistemtoko.com'])[1]/preceding::a[2]</value>
+      <webElementGuid>a821fa84-9ecf-4c58-b4ca-613721a06ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5. Aplikasi Kasir']/parent::*</value>
+      <webElementGuid>36cabb17-044d-4d6f-81a8-c005ad250954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sistemtoko.com#kasir')]</value>
+      <webElementGuid>b255c0f7-537f-4987-b9df-0623a51ccaf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>b5db6735-e9ec-4901-971c-aa46f5578749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sistemtoko.com#kasir' and (text() = '5. Aplikasi Kasir' or . = '5. Aplikasi Kasir')]</value>
+      <webElementGuid>1fe79a81-8e9c-44be-9588-769ac5a8773f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

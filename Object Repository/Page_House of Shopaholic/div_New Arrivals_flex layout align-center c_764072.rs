@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Arrivals_flex layout align-center c_764072</name>
+   <tag></tag>
+   <elementGuidId>02929303-e452-4679-a4e9-4a80a1eecdd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-bar-content']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.layout.align-center.clickable.app-bar-logo.flex--fill.justify-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b6f8424-938b-423f-ba2b-e79756790b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex layout align-center clickable app-bar-logo flex--fill justify-center</value>
+      <webElementGuid>33d620e0-6885-44ae-b2be-338a9d165c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-bar-content&quot;)/div[@class=&quot;flex layout align-center clickable app-bar-logo flex--fill justify-center&quot;]</value>
+      <webElementGuid>c5b3c7d7-e554-4353-ac1a-657afba76bf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-bar-content']/div[2]</value>
+      <webElementGuid>57f0c2fe-eef6-4272-bc0c-3259eaeca775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Arrivals'])[1]/preceding::div[5]</value>
+      <webElementGuid>39d19aa4-a198-4b13-83ee-b7ae51948948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Seller'])[1]/preceding::div[5]</value>
+      <webElementGuid>11cceba9-71ac-47c8-a464-fdc93118d0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>9e121ecf-3a02-4154-9547-1459435e6d2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
