@@ -25,8 +25,6 @@ WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Term
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Harga'))
 
-WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Pricing                                _4910a0'))
-
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/h2_Pricing'))
 
 WebUI.closeBrowser()

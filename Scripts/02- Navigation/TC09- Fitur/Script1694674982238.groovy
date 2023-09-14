@@ -31,13 +31,13 @@ WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Term
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Web Toko Online'))
 
-WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Web Toko Online                        _9fac21'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Web Toko Online                        _9fac21'))
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Fitur'))
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_2. Sistem Informasi'))
 
-WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/h2_Sistem Informasi Berbasis Website'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/h2_Sistem Informasi Berbasis Website'))
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Fitur'))
 
@@ -45,21 +45,19 @@ WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Term
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Chat Bot.Beta                          _40ff7e'))
 
-WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Chat Bot.Beta'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Chat Bot.Beta'))
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Fitur'))
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_4. Android store'))
 
-WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Android.Beta'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Android.Beta'))
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Fitur'))
 
 WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_5. Aplikasi Kasir'))
 
-WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Kasir Offline.Beta'))
-
-WebUI.click(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/a_Info'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_sistemtoko.com, Aplikasi Termudah untu_65d0a2/div_Kasir Offline.Beta'))
 
 WebUI.closeBrowser()
 
