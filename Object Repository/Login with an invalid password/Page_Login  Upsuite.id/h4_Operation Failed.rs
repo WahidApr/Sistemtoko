@@ -6,39 +6,35 @@
    <elementGuidId>79c122a9-70dd-4cfe-a2a6-c79cf69ed1b5</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='modal-alert']/h4</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>h4</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'reason' and (text() = 'Username/Password did not match' or . = 'Username/Password did not match')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tag</name>
+      <name>id</name>
       <type>Main</type>
-      <value>h4</value>
-      <webElementGuid>e87bc0dd-83b4-4aa3-98e5-cf518004f241</webElementGuid>
+      <value>reason</value>
+      <webElementGuid>8cb7f821-b60f-4c39-bb97-c58320da96c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Operation Failed</value>
-      <webElementGuid>d895dc1f-0451-4abc-b544-0510be899242</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;modal-alert&quot;)/h4[1]</value>
-      <webElementGuid>0ed7703d-24c7-4d46-a480-ed2f476da1b5</webElementGuid>
+      <value>Username/Password did not match</value>
+      <webElementGuid>090ae2b0-4ec9-4ce4-91f5-ae5ec4204139</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +42,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-alert']/h4</value>
-      <webElementGuid>bf083151-f872-43f1-acc9-7a3be795e57f</webElementGuid>
+      <webElementGuid>ac149572-af7f-4453-a07d-12da24989499</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +50,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username/Password did not match'])[1]/preceding::h4[1]</value>
-      <webElementGuid>4a6b5f78-0127-410e-aaac-dca847aae2ea</webElementGuid>
+      <webElementGuid>b350b6fb-2bc9-4cf2-a683-0e7df0eb688b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +58,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h4</value>
-      <webElementGuid>cbbd11b7-d3af-4abe-8d58-f08c38343670</webElementGuid>
+      <webElementGuid>8b5d480c-274c-4409-a892-22a8886c556c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +66,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = ' Operation Failed' or . = ' Operation Failed')]</value>
-      <webElementGuid>9565a900-3d2c-4369-b12b-2e09b2d62dc3</webElementGuid>
+      <webElementGuid>c1b89bed-b8d5-41b9-97b4-587162567385</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

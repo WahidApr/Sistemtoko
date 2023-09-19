@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC04- Login with incorrect data</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>57c32e90-84ed-499e-b34d-9972312202d2</testCaseGuid>
-</TestCaseEntity>

@@ -6,12 +6,22 @@
    <elementGuidId>454b7c05-bb1d-45bb-a7ed-ca36b3d529bb</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>ol.breadcrumb</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='angular_content']/ui-view/div/ol</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>ol.breadcrumb</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+    
+    Daftar Toko
+  ' or . = '
+    
+    Daftar Toko
+  ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>ol</value>
-      <webElementGuid>3b61a808-573a-4381-aa43-ebb156efda92</webElementGuid>
+      <webElementGuid>8c49fd68-506f-4008-8b28-03c352c81fae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>breadcrumb</value>
-      <webElementGuid>02f3380d-0f1b-472b-bea0-92ce411200a6</webElementGuid>
+      <webElementGuid>302107d3-b7a9-4561-8b13-34f97444f02d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +48,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>breadcrumbs</value>
-      <webElementGuid>e803f279-d437-4206-8c13-1210e9411e3a</webElementGuid>
+      <webElementGuid>d4b403a9-ec3c-47e1-8142-0f2e5e86d284</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +56,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menubar</value>
-      <webElementGuid>0e97b3d8-745a-4ac7-9d04-99ef7970c1c5</webElementGuid>
+      <webElementGuid>3f5da9f1-e988-4ed1-b33d-52570a715a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +67,7 @@
     
     Daftar Toko
   </value>
-      <webElementGuid>bb88eb37-ac24-4895-8ec2-8892859b8f2b</webElementGuid>
+      <webElementGuid>7338427d-e33a-4ea2-a463-120fee4a455a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;angular_content&quot;)/ui-view[1]/div[@class=&quot;page-content app-work&quot;]/ol[@class=&quot;breadcrumb&quot;]</value>
-      <webElementGuid>fd0c3e5b-7b45-4487-b150-182785220dce</webElementGuid>
+      <webElementGuid>579fc12a-7e4f-4598-898a-16383e6e45ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='angular_content']/ui-view/div/ol</value>
-      <webElementGuid>bd8f3672-ef48-4ea2-95d1-9548770ab719</webElementGuid>
+      <webElementGuid>0bc5ee02-947f-4dda-b5f3-848dbf41764a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::ol[1]</value>
-      <webElementGuid>4c12262a-3e89-4ade-b29d-98fe19f425d7</webElementGuid>
+      <webElementGuid>6797212e-50eb-4508-8cb0-08a9f79d50ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[1]/following::ol[1]</value>
-      <webElementGuid>802b3ed7-eae0-45cc-9570-1071b1c2868c</webElementGuid>
+      <webElementGuid>b6a13296-ec6d-4ea2-adac-464a4505f717</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::ol[1]</value>
-      <webElementGuid>ec9bd942-761e-449d-a82b-3b9159f42886</webElementGuid>
+      <webElementGuid>a3bdc55c-e7d1-4c5c-a4b8-7f6fb6d3d3b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +115,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ol</value>
-      <webElementGuid>d90b21b5-f823-4114-89ed-a6a308e08a62</webElementGuid>
+      <webElementGuid>91382665-aac7-4af0-8ef0-e5cd4ddeccd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +129,6 @@
     
     Daftar Toko
   ')]</value>
-      <webElementGuid>2b4b17a9-62e8-4d84-a947-2afae2e65d16</webElementGuid>
+      <webElementGuid>8338831c-1552-41fd-aa37-ed80e82a8b1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

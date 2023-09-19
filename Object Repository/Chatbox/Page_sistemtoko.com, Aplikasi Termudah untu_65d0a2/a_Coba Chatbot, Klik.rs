@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Coba Chatbot, Klik</name>
+   <tag></tag>
+   <elementGuidId>7b032006-7ccb-469c-9969-f9f68b84a02f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chatbot']/div[2]/div/div[10]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-lg.signup.hidden-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c5dc9dd4-373e-4215-b6e2-9e0623344dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg signup hidden-xs</value>
+      <webElementGuid>7e60faf9-b923-4222-9f19-f8cd82eb37ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo.sistemtoko.com/chat</value>
+      <webElementGuid>e8aef5b6-ed52-40e9-ae3b-6d22abdf102c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>9b4ce299-2f8c-4763-bbd1-a461a3b56945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Coba Chatbot, Klik</value>
+      <webElementGuid>fb4a336c-f2b3-46a7-b268-56dd8b30e09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chatbot&quot;)/div[@class=&quot;col-xs-12 col-sm-6 col-lg-4&quot;]/div[@class=&quot;box_banking&quot;]/div[@class=&quot;col-md-12 fiture-box&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;fiture-header&quot;]/a[@class=&quot;btn btn-lg signup hidden-xs&quot;]</value>
+      <webElementGuid>84e0cf60-b6b7-45ed-971f-e57ca9d8008a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chatbot']/div[2]/div/div[10]/div/div/a</value>
+      <webElementGuid>370ec382-5b9a-4bf6-929d-ea549aed3ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Coba Chatbot, Klik')]</value>
+      <webElementGuid>cf3f21d3-ed25-4595-be84-a3f3feef140f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapat secara otomatis membalas chatingan customer'])[1]/following::a[1]</value>
+      <webElementGuid>b5d9b57f-edb0-4546-9984-2edcb778ccb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beta'])[2]/following::a[1]</value>
+      <webElementGuid>990ada23-74f2-46cd-a493-22920d574cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik Disini'])[1]/preceding::a[1]</value>
+      <webElementGuid>498ec36c-c338-4c15-a277-36ff7314b469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo.sistemtoko.com/chat')]</value>
+      <webElementGuid>ab9e6add-8889-47ca-966f-c48b44a16e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/a</value>
+      <webElementGuid>12e1c2b5-d81b-4e59-912f-7aecc9c6088e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo.sistemtoko.com/chat' and (text() = 'Coba Chatbot, Klik' or . = 'Coba Chatbot, Klik')]</value>
+      <webElementGuid>2cc312c6-8381-4e3e-a609-7b38c35e490b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

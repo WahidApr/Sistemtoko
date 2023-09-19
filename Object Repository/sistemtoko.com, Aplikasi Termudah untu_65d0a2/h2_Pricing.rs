@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Pricing</name>
+   <tag></tag>
+   <elementGuidId>102c0f9c-1df3-4a43-9823-8173d2987e0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pricing']/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container > div.col-md-12 > h2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Pricing' or . = 'Pricing')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>9449fe7c-1361-4271-a6fc-96547c087e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pricing</value>
+      <webElementGuid>cd28b593-189c-4fc8-b9e9-65e22be34b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pricing&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;col-md-12&quot;]/h2[1]</value>
+      <webElementGuid>a542fa44-dbc1-44d8-8c21-300e932c81ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pricing']/div/div/div/h2</value>
+      <webElementGuid>a73188dc-28c4-4d16-9d41-1859214366f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='melayani customer 24jam non stop dengan respon time hitungan detik'])[1]/following::h2[1]</value>
+      <webElementGuid>770e5aa1-b7fd-4c1f-95da-0b10559f143e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minta Resi'])[1]/following::h2[1]</value>
+      <webElementGuid>c21042a5-56fb-4252-b5a6-fa11748bd54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsultasi'])[1]/preceding::h2[1]</value>
+      <webElementGuid>eaba2384-393e-48c4-b5ef-19bfb29398a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[2]/preceding::h2[1]</value>
+      <webElementGuid>c60bb270-3d19-4e39-a11b-c10811dbb135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pricing']/parent::*</value>
+      <webElementGuid>cb06caa0-6f80-4164-8704-c6e596332eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/div/div/h2</value>
+      <webElementGuid>925b7c0b-cfb6-4b7f-814b-31710c5521e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Pricing' or . = 'Pricing')]</value>
+      <webElementGuid>c581473d-3687-4605-ad7f-08dec216dd00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

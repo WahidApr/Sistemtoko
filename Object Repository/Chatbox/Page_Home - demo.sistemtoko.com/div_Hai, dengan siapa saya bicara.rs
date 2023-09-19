@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hai, dengan siapa saya bicara</name>
+   <tag></tag>
+   <elementGuidId>a3589658-ed5b-4584-b458-0aedcc2c4e69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/div[1]/div[2]/div[1]/div[1]/div[1][count(. | //div[(text() = 'Hai, dengan siapa saya bicara ?' or . = 'Hai, dengan siapa saya bicara ?')]) = count(//div[(text() = 'Hai, dengan siapa saya bicara ?' or . = 'Hai, dengan siapa saya bicara ?')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8566a042-987b-42a5-aed0-bd5433620283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hai, dengan siapa saya bicara ?</value>
+      <webElementGuid>5f342c29-c5b5-4183-98f4-d09e89065920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]</value>
+      <webElementGuid>30748e19-41b2-462e-aef7-bf9695eadbb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div</value>
+      <webElementGuid>b2304ae1-eefe-446b-980f-b3b6d308d727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[2]/following::div[4]</value>
+      <webElementGuid>a3a7dbd2-5cf5-4060-a41c-c03711211019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='loading..'])[1]/preceding::div[1]</value>
+      <webElementGuid>4cce5c9a-317a-4dbf-8a46-422ebd879e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hai, nama saya :'])[1]/preceding::div[2]</value>
+      <webElementGuid>a9c26bb8-8cd8-4b59-9c40-562fbca64f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hai, dengan siapa saya bicara ?']/parent::*</value>
+      <webElementGuid>6539a93b-ac18-49a2-9a6b-cf8f3d031dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>8a7c26ca-933d-4c26-bd06-3330e0544b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hai, dengan siapa saya bicara ?' or . = 'Hai, dengan siapa saya bicara ?')]</value>
+      <webElementGuid>15b4d536-cf59-4132-bfad-9c4256d4a7ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

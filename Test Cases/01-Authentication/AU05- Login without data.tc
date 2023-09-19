@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AU05- Login without data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2b85ccf-4bf7-4d69-9834-7d0435d422eb</testCaseGuid>
+</TestCaseEntity>

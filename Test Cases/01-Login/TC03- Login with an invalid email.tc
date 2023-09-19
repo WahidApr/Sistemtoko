@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC03- Login with an invalid email</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b5860413-b725-41b3-a60c-95a6b60fbb6f</testCaseGuid>
-</TestCaseEntity>

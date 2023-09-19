@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please check for empty field or wrong _88aa3b</name>
+   <tag></tag>
+   <elementGuidId>8c24ef5f-1655-42d2-876f-f772f63a0440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'reason' and (text() = 'Please check for empty field or wrong formatThe email field is required.The password field is required.' or . = 'Please check for empty field or wrong formatThe email field is required.The password field is required.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#reason</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='reason']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a07d4af-dc62-4055-95d9-7f515edcfa7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reason</value>
+      <webElementGuid>527a7756-c64a-4f7f-84b6-a7a1b5e63b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please check for empty field or wrong formatThe email field is required.The password field is required.</value>
+      <webElementGuid>3c8e1083-4ba1-4696-9ee5-8cb3ec3911d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reason&quot;)</value>
+      <webElementGuid>cf4134bd-3b35-4f30-a2aa-e126507d9c24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='reason']</value>
+      <webElementGuid>01ad2ad4-f098-4c08-8ad7-2b8413fbfa76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-alert']/span</value>
+      <webElementGuid>d7d76e8d-477f-4093-a19e-f8a927a134d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation Failed'])[1]/following::span[1]</value>
+      <webElementGuid>3827e7ac-6908-45f7-afc8-1950a78fdffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf0588a0-fb4b-4d1d-b6c2-ac97dcb716bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ba1d9c5-ea76-419f-a140-730f3fe05715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please check for empty field or wrong format']/parent::*</value>
+      <webElementGuid>3c4589db-5a5d-4f9d-8ed0-ef9ae49f2338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>0c3ed137-d427-4a8a-886c-17018fae5932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'reason' and (text() = 'Please check for empty field or wrong formatThe email field is required.The password field is required.' or . = 'Please check for empty field or wrong formatThe email field is required.The password field is required.')]</value>
+      <webElementGuid>a9bb0b3e-304b-4da2-be72-14b5fbfd08bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
